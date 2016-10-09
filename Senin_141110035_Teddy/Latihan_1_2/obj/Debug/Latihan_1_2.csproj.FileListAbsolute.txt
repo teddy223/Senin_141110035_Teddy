@@ -6,3 +6,4 @@ D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_1_
 D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_1_2\obj\Debug\Latihan_1_2.csproj.GenerateResource.Cache
 D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_1_2\obj\Debug\Latihan_1_2.exe
 D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_1_2\obj\Debug\Latihan_1_2.pdb
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_1_2\obj\Debug\Latihan_1_2.csprojResolveAssemblyReference.cache
