@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_2_1", "Latihan_2_1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_3_1", "Latihan_3_1\Latihan_3_1.csproj", "{CCAB8ABF-3BBC-42A1-8F7D-1E391FFE5FA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_4_1", "Latihan_4_1\Latihan_4_1.csproj", "{787DBC91-7436-41B3-A6FF-CFC14BB751EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_5_1", "Latihan_5_1\Latihan_5_1.csproj", "{DF3654FA-CDB8-4C04-AE31-BC8686337CF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,14 @@ Global
 		{CCAB8ABF-3BBC-42A1-8F7D-1E391FFE5FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCAB8ABF-3BBC-42A1-8F7D-1E391FFE5FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCAB8ABF-3BBC-42A1-8F7D-1E391FFE5FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787DBC91-7436-41B3-A6FF-CFC14BB751EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787DBC91-7436-41B3-A6FF-CFC14BB751EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787DBC91-7436-41B3-A6FF-CFC14BB751EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787DBC91-7436-41B3-A6FF-CFC14BB751EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3654FA-CDB8-4C04-AE31-BC8686337CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3654FA-CDB8-4C04-AE31-BC8686337CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3654FA-CDB8-4C04-AE31-BC8686337CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3654FA-CDB8-4C04-AE31-BC8686337CF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

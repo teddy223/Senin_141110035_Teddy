@@ -1,4 +1,4 @@
-﻿namespace Latihan3_1
+﻿namespace Latihan_3_1
 {
     partial class Form1
     {
@@ -28,115 +28,125 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.colorDialog1 = new System.Windows.Forms.ColorDialog();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.bold = new System.Windows.Forms.ToolStripButton();
+            this.under = new System.Windows.Forms.ToolStripButton();
+            this.italic = new System.Windows.Forms.ToolStripButton();
             this.button1 = new System.Windows.Forms.Button();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.fontDialog1 = new System.Windows.Forms.FontDialog();
+            this.colorDialog1 = new System.Windows.Forms.ColorDialog();
+            this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // richTextBox1
+            // toolStrip1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(12, 28);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(387, 283);
-            this.richTextBox1.TabIndex = 1;
-            this.richTextBox1.Text = "";
+            this.toolStrip1.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
+            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.bold,
+            this.italic,
+            this.under});
+            this.toolStrip1.Location = new System.Drawing.Point(0, 0);
+            this.toolStrip1.Name = "toolStrip1";
+            this.toolStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.System;
+            this.toolStrip1.Size = new System.Drawing.Size(602, 25);
+            this.toolStrip1.TabIndex = 0;
+            this.toolStrip1.Text = "toolStrip1";
+            // 
+            // bold
+            // 
+            this.bold.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.bold.Image = ((System.Drawing.Image)(resources.GetObject("bold.Image")));
+            this.bold.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.bold.Name = "bold";
+            this.bold.Size = new System.Drawing.Size(23, 22);
+            this.bold.Text = "toolStripButton1";
+            this.bold.Click += new System.EventHandler(this.bold_Click);
+            // 
+            // under
+            // 
+            this.under.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.under.Image = ((System.Drawing.Image)(resources.GetObject("under.Image")));
+            this.under.ImageTransparentColor = System.Drawing.Color.Indigo;
+            this.under.Name = "under";
+            this.under.Size = new System.Drawing.Size(23, 22);
+            this.under.Text = "toolStripButton3";
+            this.under.Click += new System.EventHandler(this.under_Click);
+            // 
+            // italic
+            // 
+            this.italic.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.italic.Image = ((System.Drawing.Image)(resources.GetObject("italic.Image")));
+            this.italic.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.italic.Name = "italic";
+            this.italic.Size = new System.Drawing.Size(23, 22);
+            this.italic.Text = "toolStripButton2";
+            this.italic.Click += new System.EventHandler(this.italic_Click);
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(12, 2);
+            this.button1.Location = new System.Drawing.Point(250, 1);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(29, 23);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "B";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "Fonts";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // comboBox1
-            // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(188, 2);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(161, 21);
-            this.comboBox1.TabIndex = 3;
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
-            // 
-            // comboBox2
-            // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(355, 4);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(44, 21);
-            this.comboBox2.TabIndex = 4;
-            this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
-            // 
             // button2
             // 
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(47, 2);
+            this.button2.Location = new System.Drawing.Point(346, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(26, 23);
-            this.button2.TabIndex = 5;
-            this.button2.Text = "I";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "Warna";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // button3
+            // richTextBox1
             // 
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(79, 2);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(26, 23);
-            this.button3.TabIndex = 6;
-            this.button3.Text = "U";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.richTextBox1.AcceptsTab = true;
+            this.richTextBox1.Location = new System.Drawing.Point(12, 30);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(578, 354);
+            this.richTextBox1.TabIndex = 3;
+            this.richTextBox1.Text = "";
             // 
-            // button4
+            // fontDialog1
             // 
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(111, 2);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(71, 23);
-            this.button4.TabIndex = 7;
-            this.button4.Text = "Color";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            this.fontDialog1.Color = System.Drawing.SystemColors.ControlText;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(411, 323);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.comboBox2);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(602, 398);
             this.Controls.Add(this.richTextBox1);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.toolStrip1);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.toolStrip1.ResumeLayout(false);
+            this.toolStrip1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.RichTextBox richTextBox1;
-        private System.Windows.Forms.ColorDialog colorDialog1;
+        private System.Windows.Forms.ToolStrip toolStrip1;
+        private System.Windows.Forms.ToolStripButton bold;
+        private System.Windows.Forms.ToolStripButton italic;
+        private System.Windows.Forms.ToolStripButton under;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.FontDialog fontDialog1;
+        private System.Windows.Forms.ColorDialog colorDialog1;
     }
 }
 
