@@ -244,6 +244,11 @@ namespace Latihan_5_1
             richTextBox1.SelectedText = "";
         }
 
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
         
     }
 }
