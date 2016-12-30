@@ -1,0 +1,36 @@
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\bin\Debug\Latihan_POS.exe
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\bin\Debug\Latihan_POS.pdb
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.Form1.resources
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.tambahBarang.resources
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.exe
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.pdb
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\bin\Debug\MySql.Data.dll
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.tambahCustomer.resources
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.tambahSupplier.resources
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.editBarang.resources
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.editCustomer.resources
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.editSupplier.resources
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.frmTransaksi.resources
+C:\Users\DANIEL-PC\Desktop\kuliah\Semester 5\Framework .NET Lanjutan\Tugas Latihan\Senin_141110272_Daniel\Latihan_POS\obj\Debug\Latihan_POS.frmTransaksiBeli.resources
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.exe
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.pdb
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\bin\Debug\Latihan_POS.exe
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\bin\Debug\Latihan_POS.pdb
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\bin\Debug\MySql.Data.dll
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.editBarang.resources
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.editCustomer.resources
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.editSupplier.resources
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.Form1.resources
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.frmTransaksi.resources
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.frmTransaksiBeli.resources
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.tambahBarang.resources
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.tambahCustomer.resources
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.tambahSupplier.resources
+D:\Mikroskil\Semester 5\Framework .Net Lanjutan\Senin_141110035_Teddy\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
